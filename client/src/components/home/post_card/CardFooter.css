@@ -1,0 +1,16 @@
+.card_icon_menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+    cursor: pointer;
+}
+.card_icon_menu i{
+    font-size: 20px;
+    margin: 10px;
+}
+.card_icon_menu img{
+    width: 28px;
+    height: 28px;
+    transform: translate(5px, -5px);
+    opacity: 0.9;
+}
